@@ -14,7 +14,7 @@ idna==2.6
 ipaddress==1.0.18
 pbr==3.1.1
 pycparser==2.18
-pyOpenSSL==17.2.0
+pyOpenSSL==17.5.0
 pysrt==1.1.1
 python-dateutil==2.6.1
 qtfaststart==1.8
