@@ -23,4 +23,4 @@ requests-cache==0.4.13
 six==1.10.0
 stevedore==1.19.1
 subliminal==1.1.1
-urllib3==1.22
+urllib3==1.26.5
